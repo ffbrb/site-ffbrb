@@ -1,0 +1,4 @@
+GLUON_SITE_FEEDS='packages_ffbrb'
+PACKAGES_PACKAGES_FFBRB_REPO=git://github.com/freifunk-brandenburg/packages-ffbrb.git
+PACKAGES_PACKAGES_FFBRB_COMMIT=
+PACKAGES_PACKAGES_FFBRB_BRANCH=stable

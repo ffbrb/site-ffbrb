@@ -1,0 +1,11 @@
+Freifunk Brandenburg - Site configuration
+===================================
+
+This repo holds the site configuration for the Freifunk Brandenburg build of gluon.
+
+
+Repository structure
+--------------------
+
+The gluon version used to build the firmware is referenced as a git submodule.
+To ensure that the submodule is initialized correctly, call ```git submodule update --init``` after a checkout.
