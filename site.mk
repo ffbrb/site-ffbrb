@@ -29,7 +29,7 @@ GLUON_SITE_PACKAGES := \
   haveged
 
 # Allow overriding the release number from the command line
-GLUON_RELEASE ?= development-$(shell date '+%Y%m%d%H%M%S')
+GLUON_RELEASE ?= 0.8~$(GLUON_BRANCH)-$(shell date '+%Y%m%d%H%M%S')
 
 # Default priority for updates.
 GLUON_PRIORITY ?= 0
