@@ -28,7 +28,7 @@ GLUON_SITE_PACKAGES := \
   iwinfo
 
 # Allow overriding the release number from the command line
-GLUON_RELEASE ?= 0.8~$(GLUON_BRANCH)-$(shell date '+%Y%m%d%H%M%S')
+GLUON_RELEASE ?= gluon-ffbrb-2016.1.1~$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
 
 # Default priority for updates.
 GLUON_PRIORITY ?= 0
