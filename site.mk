@@ -23,9 +23,9 @@ GLUON_SITE_PACKAGES := \
   gluon-radvd \
   gluon-setup-mode \
   gluon-status-page \
-  iwinfo \
+  haveged \
   iptables \
-  haveged
+  iwinfo
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= 0.8~$(GLUON_BRANCH)-$(shell date '+%Y%m%d%H%M%S')
