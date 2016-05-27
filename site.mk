@@ -28,7 +28,7 @@ GLUON_SITE_PACKAGES := \
   iwinfo
 
 # Allow overriding the release number from the command line
-GLUON_RELEASE ?= 2016.1.4~$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
+GLUON_RELEASE ?= 2016.1.5~$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
 
 # Default priority for updates.
 GLUON_PRIORITY ?= 0
