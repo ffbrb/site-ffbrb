@@ -40,3 +40,6 @@ GLUON_REGION ?= eu
 
 # Languages to include
 GLUON_LANGS ?= en de
+
+# add ath10k support for 802.11s
+GLUON_ATH10K_MESH := 11s
