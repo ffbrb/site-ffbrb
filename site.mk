@@ -27,7 +27,7 @@ GLUON_SITE_PACKAGES := \
 	iwinfo
 
 
-DEFAULT_GLUON_RELEASE := 2016.2.2~$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
+DEFAULT_GLUON_RELEASE := 2016.2.2.1~$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
