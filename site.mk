@@ -9,9 +9,9 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-geo-location \
 	gluon-config-mode-hostname \
 	gluon-config-mode-mesh-vpn \
-	gluon-ffbrb-autokey \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
+	gluon-ffbrb-autokey \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
