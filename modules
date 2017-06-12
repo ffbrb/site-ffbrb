@@ -1,3 +1,8 @@
+GLUON_SITE_FEEDS='packages_ffbrb'
+PACKAGES_PACKAGES_FFBRB_REPO=https://github.com/freifunk-brandenburg/packages-ffbrb.git
+PACKAGES_PACKAGES_FFBRB_COMMIT=f1c1e5ed813fb7cd82df4798d682a8b733fee270
+PACKAGES_PACKAGES_FFBRB_BRANCH=master 
+
 GLUON_SITE_FEEDS="ssidchanger"
 PACKAGES_SSIDCHANGER_REPO=https://github.com/ffac/gluon-ssid-changer.git
 PACKAGES_SSIDCHANGER_COMMIT=f5149c017264532aecd54e8184a155c944a04d7e
