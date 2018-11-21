@@ -1,4 +1,6 @@
 # Changelog
+## 20181121
+- Versionsnummer auf 2018.1.2 geändert
 ## 20170610
 - Versionsnummer auf 2016.2.6 geändert
 ## 20170609
