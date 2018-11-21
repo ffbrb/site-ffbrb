@@ -16,6 +16,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-config-mode-contact-info \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
+	gluon-ffbrb-autokey \
 	gluon-web-admin \
 	gluon-web-autoupdater \
 	gluon-web-mesh-vpn-fastd \
@@ -27,6 +28,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-radv-filterd \
 	gluon-setup-mode \
 	gluon-status-page \
+	gluon-status-page-mesh-batman-adv \
 	iwinfo \
 	haveged
 
@@ -207,6 +209,9 @@ GLUON_CHECKOUT ?= $(DEFAULT_GLUON_CHECKOUT)
 
 # Default priority for updates.
 GLUON_PRIORITY ?= 0
+
+# Default gluon branch.
+GLUON_BRANCH ?= stable 
 
 # Region code required for some images; supported values: us eu
 GLUON_REGION ?= eu
