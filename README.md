@@ -1,14 +1,11 @@
 # site-ffbrb
-site.conf für das Release v2016.2.5
+site.conf für das Release v2018.1.x
 Am Ende fallen dann alle Images für das target ar71xx-generic raus. Das sind die ichtigsten.
 Für weitere Targets führe einfach folgendes nach dem Make aus:
-## eigenes Image bauen
+## eigenes Image bauen z.B. für v2018.1.2
 ```
-git clone https://github.com/freifunk-gluon/gluon
+git clone https://github.com/freifunk-gluon/gluon.git gluon -b RELEASE
 cd gluon
-git branch -a
-git checkout v2016.2.5
-cd ..
 git clone https://github.com/freifunk-brandenburg/site-ffbrb.git 
 cp -r site-ffbrb gluon/site
 git clone https://github.com/freifunk-brandenburg/packages-ffbrb.git
