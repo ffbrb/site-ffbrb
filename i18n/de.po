@@ -12,9 +12,9 @@ msgstr ""
 
 msgid "gluon-config-mode:welcome"
 msgstr ""
-"<p>Willkommen zum Einrichtungsassistenten f&uuml;r Deinen neuen Freifunk-Knoten in Brandenburg. "
-"F&uuml;lle das folgende Formular Deinen Vorstellungen entsprechend aus und sende es ab. "
-"Eine ausf&uuml;hrliche Anleitung zur Einrichtung deines Freifunk-Knotens findest Du unter: "
+"<p>Willkommen zum Einrichtungsassistenten für Deinen neuen Freifunk-Knoten in Brandenburg. "
+"Fülle das folgende Formular Deinen Vorstellungen entsprechend aus und sende es ab. "
+"Eine ausführliche Anleitung zur Einrichtung deines Freifunk-Knotens findest Du unter: "
 "<a href=\"http://freifunk-brandenburg.de/config\">https://freifunk-brandenburg.de/config</a>.</p>"
 
 msgid "gluon-config-mode:pubkey"
