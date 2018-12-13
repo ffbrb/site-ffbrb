@@ -1,4 +1,5 @@
-# site-ffbrb
+## Stable Version - Brandenburg
+
 site.conf für das Release v2018.1.x
 Am Ende fallen dann alle Images für das target ar71xx-generic raus. Das sind die ichtigsten.
 Für weitere Targets führe einfach folgendes nach dem Make aus:
